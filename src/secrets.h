@@ -3,7 +3,7 @@
  * https://www.u-blox.com/services-form.
  */
 
-#define ASSISTNOW_TOKEN "qTHROPSbzkCQtnzef3u1yA"
+#define ASSISTNOW_TOKEN "***"
 #ifndef ASSISTNOW_TOKEN
 #error "Set ASSISTNOW_TOKEN"
 #endif
